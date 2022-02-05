@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(228, 244, 247);
+}
+
+.discription,.info{ box-sizing: border-box;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+
+.discription p{
+    font-size: 18px;
+}
+
+h3{color:cornflowerblue; font-size: 14px; font-style: normal;
+    letter-spacing: 2px;
+}
+img{
+    border-radius: 25%;
+}
+a{color: darkred;}
+h4{color:rgb(6, 6, 56); font-size: 16px;}
